@@ -1,0 +1,8 @@
+.mynavbar{
+ display: flex;
+ flex-direction: row;
+}
+
+#flex-item{
+ padding-left: 20px;
+}
